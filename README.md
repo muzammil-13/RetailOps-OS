@@ -22,7 +22,7 @@ This repo serves as the **umbrella index + documentation hub** for all the sub-p
 | 🤖 **SmartRetail.AI (Multi-Agent)** | AI assistant to analyze store data & suggest actions | Python, GCP Agents | 🧪 Hackathon Build | [smartretail-ai-multiagent](https://github.com/yourusername/smartretail-ai-multiagent) |
 | 🔔 **Season Notifier** | Notifies shops about upcoming seasonal events | Python, API | ✅ Complete | [SeasonNotifier](https://github.com/yourusername/SeasonNotifier) |
 | 🔍 **LocalBuzz.ai** | Trend tracker for local events, vendors, decorators | React, NLP | 🧪 Private MVP | [LocalBuzz.ai](#) |
-| 🌐 **RHM Event Pages** | Landing page template for retail event promotions | HTML, CSS | ✅ Freelance Template | [rhm_events](https://github.com/yourusername/rhm_events) |
+| 🌐 **Events Portfolio** | Landing page template for retail event promotions | HTML, CSS | ✅ Freelance Template | [rhm_events](https://github.com/yourusername/rhm_events) |
 
 ---
 
