@@ -16,13 +16,13 @@ This repo serves as the **umbrella index + documentation hub** for all the sub-p
 
 | Module | Description | Tech | Status | Repo |
 |--------|-------------|------|--------|------|
-| 🧾 **Smart Receipt Uploader** | Upload and parse retail receipts with AI + OCR | React, Python, OCR | 🧪 Private MVP | [smart-receipt-uploader.ai](#) |
+| 🧾 **Smart Receipt Uploader** | Upload and parse retail receipts with AI + OCR | React, Python, OCR | 🧪 Private MVP | [smart-receipt-uploader.ai](https://github.com/muzammil-13/smart-receipt-uploader.ai) |
 | 📊 **Daily Sales Logger** | Log and visualize daily sales via Google Forms + Sheets | Apps Script, JS | ✅ Live | [Daily-Sales-Log-Automation](https://github.com/muzammil-13/Daily-Sales-Log-Automation) |
-| 📈 **Retail Dashboard** | MERN dashboard for sales, inventory, customer trends | MERN | 🧪 Private MVP | [retail-dashboard](#) |
-| 🤖 **SmartRetail.AI (Multi-Agent)** | AI assistant to analyze store data & suggest actions | Python, GCP Agents | 🧪 Hackathon Build | [smartretail-ai-multiagent](https://github.com/yourusername/smartretail-ai-multiagent) |
-| 🔔 **Season Notifier** | Notifies shops about upcoming seasonal events | Python, API | ✅ Complete | [SeasonNotifier](https://github.com/yourusername/SeasonNotifier) |
-| 🔍 **LocalBuzz.ai** | Trend tracker for local events, vendors, decorators | React, NLP | 🧪 Private MVP | [LocalBuzz.ai](#) |
-| 🌐 **Events Portfolio** | Landing page template for retail event promotions | HTML, CSS | ✅ Freelance Template | [Events_portfolio](https://github.com/yourusername/rhm_events) |
+| 📈 **Retail Dashboard** | MERN dashboard for sales, inventory, customer trends | MERN | 🧪 Private MVP | [retail-dashboard](https://github.com/muzammil-13/retail-dashboard) |
+| 🤖 **SmartRetail.AI (Multi-Agent)** | AI assistant to analyze store data & suggest actions | Python, GCP Agents | 🧪 Hackathon Build | [smartretail-ai-multiagent](https://github.com/muzammil-13/smartretail-ai-multiagent) |
+| 🔔 **Season Notifier** | Notifies shops about upcoming seasonal events | Python, API | ✅ Complete | [SeasonNotifier]([https://github.com/yourusername/SeasonNotifier](https://github.com/muzammil-13/SeasonNotifier)) |
+| 🔍 **LocalBuzz.ai** | Trend tracker for local events, vendors, decorators | React, NLP | 🧪 Private MVP | [LocalBuzz.ai](https://github.com/muzammil-13/LocalBuzz.ai) |
+| 🌐 **Events Portfolio** | Landing page template for retail event promotions | HTML, CSS | ✅ Freelance Template | [Events_portfolio](https://github.com/muzammil-13/events-portfolio) |
 
 ---
 
